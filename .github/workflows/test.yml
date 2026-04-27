@@ -84,7 +84,7 @@ jobs:
 
           body: |
 
-            This issue has been closed. If you think this is incorrect, feel free to reopen it.
+            The issue is now resolved.
  
       - name: Comment on pull request
 
